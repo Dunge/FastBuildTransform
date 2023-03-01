@@ -11,7 +11,7 @@
     <None Include="NLog.config">
       <SubType>Designer</SubType>
       <TransformOnBuild>true</TransformOnBuild>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="NLog.Debug.config">
       <IsTransformFile>True</IsTransformFile>
