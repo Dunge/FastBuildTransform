@@ -1,0 +1,1 @@
+Repro of https://github.com/dotnet/project-system/issues/8886
